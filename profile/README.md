@@ -14,7 +14,7 @@ Every contribution strengthens the bureaucratic singularity. Every pull request 
 Recognized authorities seeking to register an official `*.gov.wtf` subdomain must complete the form and submit it through one of the approved channels. Forms are available at [https://get.gov.wtf](http://get.gov.wtf) and are served in accordance with institutional standards.
 
 Submission methods:
-- Email: [contact@shit.gov.wtf](mailto:delegation-requests@shit.gov.wtf)
+- Email: [delegation-requests@shit.gov.wtf](mailto:delegation-requests@shit.gov.wtf)
 - GitHub Discussions: [Delegation Repository](https://github.com/orgs/SHITGGWTF/discussions)
 <!-- UPDATE INTERNALLY WHEN WEBSITE WITH FORMS HAVE BEEN RELEASED TO THE PUBLIC FROM THE GLORIOUS INTRANET -->
 Submissions must include:
