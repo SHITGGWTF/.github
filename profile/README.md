@@ -15,7 +15,7 @@ Recognized authorities seeking to register an official `*.gov.wtf` subdomain mus
 
 Submission methods:
 - Email: [contact@shit.gov.wtf](mailto:delegation-requests@shit.gov.wtf)
-- GitHub Discussions: [Delegation Repository](https://github.com/SHITGGWTF/discussions)
+- GitHub Discussions: [Delegation Repository](https://github.com/orgs/SHITGGWTF/discussions)
 <!-- UPDATE INTERNALLY WHEN WEBSITE WITH FORMS HAVE BEEN RELEASED TO THE PUBLIC FROM THE GLORIOUS INTRANET -->
 Submissions must include:
 - Administrative Contact
