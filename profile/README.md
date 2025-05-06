@@ -32,7 +32,7 @@ Each request will be reviewed by no fewer than three internal subcommittees. The
 To initiate protocol discussions, file a procedural motion, or report a breach of compliance:
 
 - Email: [contact@shit.gov.wtf](mailto:contact@shit.gov.wtf)
-- Website: [http://shit.gov.wtf](http://shit.gov.wtf)
+- Website: [http://www.shit.gov.wtf](http://www.shit.gov.wtf)
 
 ---
 
